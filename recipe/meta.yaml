@@ -1,4 +1,4 @@
-{% set version = "0.17.0" %}
+{% set version = "0.17.1" %}
 
 package:
   name: adcc
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/adc-connect/adcc/archive/v{{ version }}.tar.gz
-  sha256: e23bfaf60923eaff405f36ed1533a1ce135f72b2021cf65cf1b49205757bc5c2
+  sha256: 4f0e9b64727afa939cc7553b8f9ac262e5ae9829e128eb35afdfa7e7003d0ebf
 
 build:
   number: 0
